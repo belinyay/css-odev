@@ -1,0 +1,49 @@
+.location {
+    list-style-position: inside;
+    text-align: center;
+
+}
+
+.f-s-a {
+    font-size: 25px;
+}
+
+.text-title {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    
+}
+
+.title {
+    color: #2F4F4F;
+}
+
+.information {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+#information2 {
+    text-align: left;
+    font-size: 20px;
+}
+
+.location2 {
+    text-align:left ;
+    color: #DAA520;
+}
+
+.view {
+    color:#CD5C5C ;
+    font-size: 30px;
+}
+
+.font-size-p {
+    font-size: 20px;
+}
+
+#abc {
+    text-align: left;
+    font-size: 26px;
+}
